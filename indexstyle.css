@@ -8,7 +8,7 @@ body {
   padding: 2.0rem;
   border-radius: 6px;
   color: #FFFFFF;
-  margin-bottom: 5px;
+  margin-bottom: 10px;
 }
 
 .row {
@@ -23,7 +23,7 @@ body {
   padding: 2.0rem;
   border-radius: 4px;
   box-shadow: 3px 3px 2px 3px #4B2E83;
-  margin-right: 5px;
+  margin-right: 10px;
   text-align: center;
 }
 
@@ -35,7 +35,7 @@ body {
   padding: 2.0rem;
   border-radius: 4px;
   box-shadow: 3px 3px 2px 3px #4B2E83;
-  margin-left: 5px;
+  margin-left: 10px;
   text-align: center;
 }
 
