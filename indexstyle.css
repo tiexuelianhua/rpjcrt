@@ -7,10 +7,11 @@ html, body {
 .header {
   background-color: #4B2E83;
   border: 5px solid;
-  border-radius: 6px;
+  border-radius: 5px;
   color: #FFFFFF;
   margin-bottom: 10px;
   width: 100%;
+  padding: var(1rem, var(1rem));
 }
 
 .header h1, p {
