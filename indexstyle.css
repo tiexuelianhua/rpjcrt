@@ -1,4 +1,4 @@
-body {
+html, body {
   font-family: 'Open Sans', sans-serif; 
   margin: 0;
   padding: 0;
@@ -6,9 +6,8 @@ body {
 
 .header {
   background-color: #4B2E83;
-  border: 1px;
+  border: 1px solid;
   border-style: solid;
-  padding-left: 5px;
   border-radius: 6px;
   color: #FFFFFF;
   margin-bottom: 10px;
