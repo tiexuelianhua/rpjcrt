@@ -16,4 +16,10 @@ body {
 
 .column {
   flex: 50%;
+  color: #4B2E83;
+  background-color: #FFFFFF;
+  border: 1px;
+  padding: 3.0rem;
+  border-radius: 6px;
+  box-shadow: 5px 5px 2px 5px #4B2E83;
 }
