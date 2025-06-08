@@ -8,6 +8,7 @@ body {
   padding: 2.0rem;
   border-radius: 6px;
   color: #FFFFFF;
+  margin-bottom: 5px;
 }
 
 .row {
@@ -15,7 +16,7 @@ body {
 }
 
 .column {
-  flex: 50%;
+  flex: 40%;
   color: #4B2E83;
   background-color: #FFFFFF;
   border: 1px;
