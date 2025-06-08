@@ -12,3 +12,11 @@ body {
 h1 {
   color: #FFFFFF;
 }
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+}
