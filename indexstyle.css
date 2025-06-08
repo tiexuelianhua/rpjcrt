@@ -15,7 +15,7 @@ body {
   display: flex;
 }
 
-.column {
+.leftcolumn {
   flex: 40%;
   color: #4B2E83;
   background-color: #FFFFFF;
@@ -23,4 +23,17 @@ body {
   padding: 2.0rem;
   border-radius: 4px;
   box-shadow: 3px 3px 2px 3px #4B2E83;
+  margin-right: 5px;
 }
+
+.rightcolumn {
+  flex: 40%;
+  color: #4B2E83;
+  background-color: #FFFFFF;
+  border: 1px;
+  padding: 2.0rem;
+  border-radius: 4px;
+  box-shadow: 3px 3px 2px 3px #4B2E83;
+  margin-left: 5px;
+}
+
