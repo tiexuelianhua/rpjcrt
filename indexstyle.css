@@ -27,7 +27,7 @@ html, body {
 }
 
 .leftcolumn {
-  flex: 40%;
+  flex: 30%;
   color: #4B2E83;
   background-color: #FFFFFF;
   border: 1px;
@@ -39,7 +39,7 @@ html, body {
 }
 
 .rightcolumn {
-  flex: 40%;
+  flex: 30%;
   color: #4B2E83;
   background-color: #FFFFFF;
   border: 1px;
