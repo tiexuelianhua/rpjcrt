@@ -24,6 +24,7 @@ body {
   border-radius: 4px;
   box-shadow: 3px 3px 2px 3px #4B2E83;
   margin-right: 5px;
+  text-align: center;
 }
 
 .rightcolumn {
@@ -35,6 +36,7 @@ body {
   border-radius: 4px;
   box-shadow: 3px 3px 2px 3px #4B2E83;
   margin-left: 5px;
+  text-align: center;
 }
 
 /* Recommit */
