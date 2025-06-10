@@ -57,18 +57,18 @@ html, body {
 .row {
   display: flex;
   flex-wrap: wrap;
-  padding: 0 10px;
   flex: 85%;
+  margin: 0;
+  padding: 0;
 }
 
 .column {
   flex: 1 1 40%;
   color: #4B2E83;
   background-color: #FFFFFF;
-  padding: 0.75rem;
   border-radius: 4px;
   box-shadow: 3px 3px 2px 3px #4B2E83;
-  margin: 4px 6px;
+  margin: 2px 4px;
   text-align: center;
   min-width: 200px;
   overflow-wrap: break-word;
