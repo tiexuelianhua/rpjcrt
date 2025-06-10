@@ -65,10 +65,10 @@ html, body {
   flex: 1 1 40%;
   color: #4B2E83;
   background-color: #FFFFFF;
-  padding: 1rem;
+  padding: 0.75rem;
   border-radius: 4px;
   box-shadow: 3px 3px 2px 3px #4B2E83;
-  margin: 5px;
+  margin: 4px 6px;
   text-align: center;
   min-width: 200px;
   overflow-wrap: break-word;
