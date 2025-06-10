@@ -74,7 +74,7 @@ html, body {
   margin-bottom: 5px; 
   text-align: center;
   min-width: 250px;
-  min-height: 30px;
+  max-height: 15px;
 }
 
 
