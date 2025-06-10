@@ -85,8 +85,6 @@ html, body {
   overflow:hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
-
-  box-shadow: 3px 3px 2px 3px #4B2E83;
 }
 
 
