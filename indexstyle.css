@@ -71,6 +71,7 @@ html, body {
   box-shadow: 3px 3px 2px 3px #4B2E83;
   margin-left: 10px;
   margin-right: 10px;
+  margin-bottom: 5px; 
   text-align: center;
   min-width: 250px;
 }
