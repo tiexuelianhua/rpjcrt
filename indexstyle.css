@@ -56,6 +56,7 @@ html, body {
 
 .row {
   display: flex;
+  flex: 85%;
 }
 
 .leftcolumn {
