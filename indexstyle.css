@@ -2,6 +2,11 @@
   box-sizing: border-box;
 }
 
+a {
+  text-decoration: none
+  color: inherit;
+}
+
 html, body {
   font-family: 'Open Sans', sans-serif; 
   margin: 0;
@@ -106,7 +111,6 @@ html, body {
 
   font-weight: bold;
   font-size: 24px;
-  text-decoration: none;
 }
 
 /* Recommit */
