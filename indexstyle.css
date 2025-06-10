@@ -89,5 +89,9 @@ html, body {
   outline: 1px solid #4B2E83;
 }
 
+.column h2 {
+  margin: 0;
+}
+
 
 /* Recommit */
