@@ -2,7 +2,7 @@
   box-sizing: border-box;
 }
 
-ul li a {
+a {
   text-decoration: none
   color: inherit;
 }
@@ -91,7 +91,7 @@ html, body {
   max-height: 150px;
 }
 
-.column-list li {
+.column-list ul li a {
   flex: 0 0 48%;
   box-sizing: border-box:
   padding: 1rem;
