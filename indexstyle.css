@@ -35,6 +35,25 @@ html, body {
   min-height: 100vh; 
 }
 
+.menu h3 {
+  margin-top: 0;
+}
+
+.menu ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.menu ul li {
+  margin: 10px 0;
+}
+
+.menu ul li a {
+  text-decoration: none;
+  color: #FFFFFF;
+  font-weight: bold;
+}
+
 .row {
   display: flex;
 }
