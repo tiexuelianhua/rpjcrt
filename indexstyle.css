@@ -105,6 +105,7 @@ html, body {
   text-overflow: ellipsis;
 
   font-weight: bold;
+  font-size: 16px;
 }
 
 /* Recommit */
