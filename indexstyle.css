@@ -63,6 +63,9 @@ html, body {
   background-color: #FFFFFF;
   color: #4B2E83;
   margin-bottom: 5%;
+  margin-left: 1%;
+  margin-right: 1%;
+  max-height: 50px;
 }
   
 .column-list {
