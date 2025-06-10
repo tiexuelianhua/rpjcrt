@@ -57,32 +57,24 @@ html, body {
 }
 
 .row {
-  display: flex;
-  flex-wrap: wrap;
-  flex: 85%;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
   margin: 0;
   padding: 0;
-  gap: 0;
-  align-items: flex-start;
+  gap: 0%;
 }
 
 .column {
-  flex: 1 1 40%;
   color: #4B2E83;
   background-color: #FFFFFF;
   border-radius: 4px;
 
-  margin-right: 5px;
-  margin-left: 5px;
-  margin-bottom: 0;
   text-align: center;
   min-width: 200px;
   overflow-wrap: break-word;
   word-break: break-word;
 
-  width: 150px;
-  height: 100px;
-  overflow:hidden;
+  overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
 
