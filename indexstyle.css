@@ -66,6 +66,8 @@ html, body {
   color: #4B2E83;
   background-color: #FFFFFF;
   padding: 1rem;
+  line-height: 1.2;
+  font-size: 0.9rem;
   border-radius: 4px;
   box-shadow: 3px 3px 2px 3px #4B2E83;
   margin: 5px;
