@@ -56,6 +56,14 @@ html, body {
   font-weight: bold;
 }
 
+.menu-footer {
+  margin-top: auto;
+  font-size: 0.75rem;
+  text-align: center;
+  color: #4B2E83;
+  padding-top: 1rem;
+}
+
 .intro {
   flex: 85%;
   display: flex;
