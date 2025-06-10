@@ -57,8 +57,8 @@ html, body {
 }
 
 .column-container {
-  flex: 85%;
   display: flex;
+  flex: 85%;
   flex-wrap: wrap;
   padding: 0;
   margin: 0;
@@ -68,8 +68,8 @@ html, body {
 }
 
 .column {
-  flex: 1 1 48%;
-  max-width: 48%;
+  flex: 1 1 45%;
+  max-width: 45%;
   box-sizing: border-box;
   margin: 1%;
   color: #4B2E83;
