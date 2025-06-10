@@ -73,7 +73,9 @@ html, body {
   flex: 1 1 45%;
   max-width: 45%;
   box-sizing: border-box;
-  margin: 0 1%;
+  margin: 0;
+  margin-right: 2%;
+  margin-bottom: 0;
   color: #4B2E83;
   background-color: #FFFFFF;
   border-radius: 4px;
@@ -93,6 +95,11 @@ html, body {
 .column > * {
   margin: 0;
   line-height: 1.1;
+}
+
+.column h2 {
+  margin: 0;
+  padding: 0;
 }
 
 
