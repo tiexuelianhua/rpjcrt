@@ -113,4 +113,8 @@ html, body {
   font-size: 24px;
 }
 
+.column-list ul li a {
+  text-decoration: none
+}
+
 /* Recommit */
