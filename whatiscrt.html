@@ -4,16 +4,6 @@
     <title>What is CRT?</title>
     <link href="whatiscrt.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
-
-    <script>
-      document.querySelectorAll('.dropdown-toggle').forEach(button => {
-        button.addEventListener('click', () => {
-          const content = button.nextElementSibling;
-          const isOpen = content.style.display === 'block';
-          content.style.display = isOpen ? 'none' : 'block';
-        });
-      });
-    </script>
   </head>
   <body>
     <div class="header">
@@ -89,6 +79,15 @@
       </div>
 
     </div>
+    <script>
+      document.querySelectorAll('.dropdown-toggle').forEach(button => {
+        button.addEventListener('click', () => {
+          const content = button.nextElementSibling;
+          const isOpen = content.style.display === 'block';
+          content.style.display = isOpen ? 'none' : 'block';
+        });
+      });
+    </script>
   </body>
   
 </html>
