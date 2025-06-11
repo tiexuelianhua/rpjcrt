@@ -1,1 +1,103 @@
+* {
+  box-sizing: border-box;
+}
 
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+html, body {
+  font-family: 'Open Sans', sans-serif; 
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  background-color: #4B2E83;
+  border: 5px solid;
+  border-radius: 5px;
+  color: #FFFFFF;
+  margin-bottom: 10px;
+  width: 100%;
+}
+
+.header h1, .header p {
+  margin: 0;
+  padding: 5px;
+}
+
+.main-content {
+  display: flex;
+  flex-direction: row;
+  margin: 0;
+  padding: 0;
+}
+
+.menu {
+  flex: 0 0 250px; 
+  background-color: #36215e;
+  padding: 1rem;
+  color: #FFFFFF;
+  min-height: 100vh;
+}
+
+.menu h3 {
+  margin-top: 0;
+}
+
+.menu ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.menu ul li {
+  margin: 10px 0;
+}
+
+.menu ul li a {
+  text-decoration: none;
+  color: #FFFFFF;
+  font-weight: bold;
+}
+
+.menu-footer {
+  margin-top: auto;
+  font-size: 0.75rem;
+  text-align: center;
+  color: #4B2E83;
+  padding-top: 1rem;
+}
+
+.info {
+  flex: 85%;
+  background-color: #FFFFFF;
+  color: #4B2E83;
+  display: block;
+  padding: 1rem;
+  margin: 0;
+}
+
+.info > p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+.info h2 {
+  width: 100%;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.info h3, .info h2, .info h1 {
+  font-weight: bold;
+}
+
+.info h3, .info p {
+  color: #4B2E83;
+}
+
+
+/* Recommit */
