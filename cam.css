@@ -99,5 +99,11 @@ html, body {
   color: #4B2E83;
 }
 
+.info a {
+  color: #4B2E83;
+  font-weight: bold;   
+  text-decoration: underline;
+}
+
 
 /* Recommit */
