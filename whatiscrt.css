@@ -35,11 +35,11 @@ html, body {
 }
 
 .menu {
-  flex: 15%;
+  flex: 0 0 250px;
   background-color: #36215e;
   padding: 1rem;
   color: #FFFFFF;
-  min-height: 100vh; 
+  min-height: 100vh;
 }
 
 .menu h3 {
