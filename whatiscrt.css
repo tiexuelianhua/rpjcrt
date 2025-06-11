@@ -68,3 +68,13 @@ html, body {
   color: #4B2E83;
   padding-top: 1rem;
 }
+
+.info {
+  flex: 85%;
+  background-color: #FFFFFF;
+  color: #4B2E83;
+}
+
+.info h3, .info h2, .info h1 {
+  font-weight: bold;
+}
