@@ -83,3 +83,29 @@ html, body {
 .info h3, .info h2, .info h1 {
   font-weight: bold;
 }
+
+.dropdown-container {
+  margin-bottom: 1rem;
+}
+
+.dropdown-toggle {
+  width: 100%;
+  padding: 0.75rem;
+  background-color: #4B2E83;
+  color: #FFFFFF;
+  border: none;
+  cursor: pointer;
+  font-weight: bold;
+  text-align: left;
+  border-radius: 4px;
+}
+
+.dropdown-content {
+  display: none; 
+  padding: 0.75rem;
+  background-color: #FFFFFF;
+  border: 1px solid #4B2E83;
+  border-top: none;
+  color: #4B2E83;
+  border-radius: 0 0 4px 4px;
+}
